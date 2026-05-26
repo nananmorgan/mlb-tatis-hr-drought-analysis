@@ -94,8 +94,13 @@ jupyter notebook MLB_TatisHRDrought_SurvivalAnalysis.ipynb
 ![lifelines](https://img.shields.io/badge/lifelines-survival%20analysis-green)
 ![pybaseball](https://img.shields.io/badge/pybaseball-Statcast-navy)
 
----
 
+---
+  
+*Part of my [Data Science Portfolio](https://github.com/nananmorgan/data-science-portfolio)*
+  
+---
+ 
 ## About
 
 **Nana Noda-Morgan** | M.S. Data Science, Bellevue University  
