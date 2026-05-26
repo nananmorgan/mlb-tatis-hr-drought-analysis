@@ -86,22 +86,7 @@ jupyter notebook MLB_TatisHRDrought_SurvivalAnalysis.ipynb
 > Note: The first run will pull Statcast data via `pybaseball`. Caching is enabled in the notebook to speed up subsequent runs.
 
 ---
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![lifelines](https://img.shields.io/badge/lifelines-survival%20analysis-green)
-![pybaseball](https://img.shields.io/badge/pybaseball-Statcast-navy)
-
-
----
   
 *Part of my [Data Science Portfolio](https://github.com/nananmorgan/data-science-portfolio)*
   
 ---
- 
-## About
-
-**Nana Noda-Morgan** | M.S. Data Science, Bellevue University  
-[GitHub Portfolio](https://github.com/nananmorgan) · [LinkedIn](https://www.linkedin.com/in/nanamorgan)
